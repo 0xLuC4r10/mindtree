@@ -2,6 +2,6 @@
 using namespace std;
 
 int main(){
-    cout << "Mindtree is new game fry." << endl;
+    cout << "Mindtree is awesomeee." << endl;
     return 0;
 }
