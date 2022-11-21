@@ -2,6 +2,6 @@
 using namespace std;
 
 int main(){
-    cout << "Mindtree needs fame updated." << endl;
+    cout << "Mindtree is new game." << endl;
     return 0;
 }
